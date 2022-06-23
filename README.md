@@ -10,7 +10,8 @@
     </div>
 </div>
 
-<center>
+
+<div align='center'>
 <h4>Languages</h4>
 <table align='center' width="100%">
     <tr>
@@ -42,4 +43,4 @@
     </div>
     </td>
 </table>
-</center>
+</div>
