@@ -37,7 +37,7 @@ _Tools_
 
 `<GetInTouch />` :coffee:
 
-<a href="https://www.linkedin.com/in/ayoub-hadi-a8a023243/">
+<a href="https://www.linkedin.com/in/eyubkh">
     <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>   
 <a href="mailto: eyub.kh@gmail.com">
