@@ -1,6 +1,6 @@
 <img align='right' src="https://media0.giphy.com/media/RcsonxhFOqAdOiHeWB/giphy.gif?cid=790b7611c1e084726ed4e1eac0e8802ef0af16dd2775fc8a&rid=giphy.gif&ct=s" height="110" />
 
-### Hi :wave:, I'm Ayoub Hadi
+### :wave: Hi, I'm Ayoub Khalfaoui Hadi
 
 ##### _Frontend Developer_
 
