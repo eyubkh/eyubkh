@@ -33,7 +33,7 @@ _Tools_
 > <img src="https://img.shields.io/badge/Git-orangered?style=for-the-badge&logo=git&logoColor=white" alt="git Badge"/>
 > <img src="https://img.shields.io/badge/Tdd-blue?style=for-the-badge&" alt="git Badge"/>
 > <img src="https://img.shields.io/badge/figma-orangered?style=for-the-badge&logo=figma&logoColor=white" alt="figma Badge"/>
-> <img src="https://img.shields.io/badge/vscode-orangered?style=for-the-badge&logo=vscode&logoColor=white" alt="vscode Badge"/>
+> <img src="https://img.shields.io/badge/vscode-orangered?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vscode Badge"/>
 
 `<GetInTouch />` :coffee:
 
