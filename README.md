@@ -43,3 +43,6 @@ _Tools_
 <a href="mailto: eyub.kh@gmail.com">
     <img src="https://img.shields.io/badge/Mail-orangered?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail Badge"/>
 </a>
+<a href="">
+    <img src="https://img.shields.io/badge/Cv-yellow?style=for-the-badge&logo=libreoffice&logoColor=white" alt="Mail Badge"/>
+</a>
