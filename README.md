@@ -37,12 +37,12 @@ _Tools_
 
 `<GetInTouch />` :coffee:
 
-<a href="https://www.linkedin.com/in/eyubkh">
+<a href="https://www.linkedin.com/in/eyubkh" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>   
-<a href="mailto: eyub.kh@gmail.com">
+<a href="mailto: eyub.kh@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Mail-orangered?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail Badge"/>
 </a>
-<a href="https://docs.google.com/document/d/11Qi-i4_nDdEo7gN1O3mEG3sx7O6AqX_2hjceeCuE9Vg/edit?usp=sharing">
+<a href="https://docs.google.com/document/d/11Qi-i4_nDdEo7gN1O3mEG3sx7O6AqX_2hjceeCuE9Vg/edit?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Cv-yellow?style=for-the-badge&logo=libreoffice&logoColor=white" alt="Mail Badge"/>
 </a>
