@@ -6,7 +6,7 @@
 
 ` <AboutMe />` :man_shrugging:
 
-- I'm self-taught student.
+- Self-taught aspiring software engineer 🤓 driven by passion for computer science. Improving skills through self-study & staying up-to-date on tech/languages. Highly motivated & dedicated to success 🔥.
 - Currently learning Typescript.
 
 `<Skills />` :computer:
