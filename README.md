@@ -13,14 +13,14 @@
 _Languages_
 
 > <img src="https://img.shields.io/badge/Html-orangered?style=for-the-badge&logo=html5&logoColor=white" alt="Html Badge"/>
-> <img src="https://img.shields.io/badge/Css-0a66c2?style=for-the-badge&logo=css3&logoColor=white" alt="css3 Badge"/>
+> <img src="https://img.shields.io/badge/Css-blue?style=for-the-badge&logo=css3&logoColor=white" alt="css3 Badge"/>
 > <img src="https://img.shields.io/badge/Javascirpt-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="javascript Badge"/>
 > <img src="https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript Badge"/>
 > <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white" alt="python Badge"/>
 
 _Frontend_
 
-> <img src="https://img.shields.io/badge/React-0a66c2?style=for-the-badge&logo=react&logoColor=white" alt="react Badge"/>
+> <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white" alt="react Badge"/>
 > <img src="https://img.shields.io/badge/Nextjs-black?style=for-the-badge&logo=next.js&logoColor=white" alt="nextjs Bladge"/>
 > <img src="https://img.shields.io/badge/Storybook-pink?style=for-the-badge&logo=storybook&logoColor=white" alt="storybook Badge"/>
 > <img src="https://img.shields.io/badge/Threejs-black?style=for-the-badge&logo=three.js&logoColor=white" alt="threejs Bladge"/>
@@ -37,7 +37,7 @@ _Tools_
 > <img src="https://img.shields.io/badge/Git-orangered?style=for-the-badge&logo=git&logoColor=white" alt="git Badge"/>
 > <img src="https://img.shields.io/badge/Tdd-blue?style=for-the-badge&" alt="tdd Badge"/>
 > <img src="https://img.shields.io/badge/figma-orangered?style=for-the-badge&logo=figma&logoColor=white" alt="figma Badge"/>
-> <img src="https://img.shields.io/badge/vscode-orangered?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vscode Badge"/>
+> <img src="https://img.shields.io/badge/vscode-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vscode Badge"/>
 
 `<GetInTouch />` :coffee:
 
