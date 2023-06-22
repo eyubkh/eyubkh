@@ -42,7 +42,7 @@ _Tools_
 `<GetInTouch />` :coffee:
 
 <a href="https://www.linkedin.com/in/eyubkh" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>   
 <a href="mailto: eyub.kh@gmail.com">
     <img src="https://img.shields.io/badge/Mail-orangered?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail Badge"/>
