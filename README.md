@@ -47,6 +47,6 @@ _Tools_
 <a href="mailto: eyub.kh@gmail.com">
     <img src="https://img.shields.io/badge/Mail-orangered?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail Badge"/>
 </a>
-<a href="https://docs.google.com/document/d/11Qi-i4_nDdEo7gN1O3mEG3sx7O6AqX_2hjceeCuE9Vg/edit?usp=sharing" target="_blank">
+<a href="https://docs.google.com/document/d/1KO8NvYvFAEpxQ_4v23xsVdcv3B1bfly-67-O0opw_VI/edit?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Cv-yellow?style=for-the-badge&logo=libreoffice&logoColor=white" alt="Mail Badge"/>
 </a>
