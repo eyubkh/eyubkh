@@ -50,6 +50,6 @@ _Tools_
 <a href="https://docs.google.com/document/d/1KO8NvYvFAEpxQ_4v23xsVdcv3B1bfly-67-O0opw_VI/edit?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Cv-yellow?style=for-the-badge&logo=libreoffice&logoColor=white" alt="Mail Badge"/>
 </a>
-<a href="https://docs.google.com/document/d/1KO8NvYvFAEpxQ_4v23xsVdcv3B1bfly-67-O0opw_VI/edit?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Cv-yellow?style=for-the-badge&logo=libreoffice&logoColor=white" alt="Mail Badge"/>
+<a href="https://www.eyubkh.co.uk" target="_blank">
+    <img src="https://img.shields.io/badge/Cv-yellow?style=for-the-badge&logo=libreoffice&logoColor=black" alt="my website"/>
 </a>
